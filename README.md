@@ -1,5 +1,7 @@
 **Hi, I'm nvidiadriver👋! I'm a full-stack cheat developer, figma designer, and game developer.**
 
+**4+ Years of experience with software and tech.**
+
 **Feel free to DM me on Discord or Telegram if you have any questions or inquiries!**
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,html,css,js)]()
