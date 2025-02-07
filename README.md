@@ -1,4 +1,4 @@
-**Hi, I'm nvidiadriver👋! I'm a full-stack cheat developer and game developer.**
+**Hi, I'm nvidiadriver👋! I'm a full-stack cheat developer, figma designer, and game developer.**
 
 **Feel free to DM me on Discord if you have any questions or inquiries!**
 
