@@ -1,6 +1,6 @@
 Hi, I'm nvidiadriver👋! I'm a full-stack cheat developer and game developer.
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,py)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,html,css,js)]()
 
 [![My Skills](https://skillicons.dev/icons?i=godot,unity,blender)]()
 
