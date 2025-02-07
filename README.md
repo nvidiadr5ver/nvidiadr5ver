@@ -1,6 +1,6 @@
 **Hi, I'm nvidiadriver👋! I'm a full-stack cheat developer, figma designer, and game developer.**
 
-**4+ Years of experience with software and tech.**
+**4+ Years of experience with programming | 8+ Years with tech.**
 
 **My main focuses right now are designs and game development, however im always open to game hacking.**
 
