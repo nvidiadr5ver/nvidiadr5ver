@@ -4,7 +4,7 @@
 
 **Feel free to DM me on Discord or Telegram if you have any questions or inquiries!**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,html,css,js)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,py,html,css,js)]()
 
 [![My Skills](https://skillicons.dev/icons?i=godot,unity,blender)]()
 
