@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=godot,unity,blender)]()
 
-[![My Skills](https://skillicons.dev/icons?i=windows)]()
+[![My Skills](https://skillicons.dev/icons?i=windows,replit,github)]()
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,figma)]()
 
