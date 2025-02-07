@@ -2,6 +2,8 @@
 
 **4+ Years of experience with software and tech.**
 
+**My main focuses right now are designs and game development, however im always open to game hacking.**
+
 **Feel free to DM me on Discord or Telegram if you have any questions or inquiries!**
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,py,html,css,js)]()
