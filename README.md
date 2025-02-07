@@ -1,4 +1,5 @@
 Hi, I'm nvidiadriver👋! I'm a full-stack cheat developer and game developer.
+Feel free to dm me through my Discord if you have any questions or inquiries!
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,html,css,js)]()
 
