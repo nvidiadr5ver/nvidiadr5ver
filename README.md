@@ -6,7 +6,7 @@
 
 **Feel free to DM me on Discord or Telegram if you have any questions or inquiries!**
 
-**Languages - C++, Python, C#**
+**Languages - C++, Python, Lua, C#**
 
 **Engines - Godot, Unity, Blender**
 
