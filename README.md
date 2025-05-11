@@ -1,6 +1,6 @@
 **Cheat developer, Figma designer, ImGui designer, and game developer.**
 
-**4+ years of programming and tech experience.**
+**5+ years of programming and tech experience.**
 
 **My main focus right now is hacking and game reversing, but I'm always open to other projects.**
 
